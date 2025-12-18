@@ -1,0 +1,585 @@
+[Distill DLC]
+! Title: Custom Blocklist based on obfusgated test
+! Description: Generated from obfusgated provided list covering Ads, Analytics, Tracking, and OEMs.
+! Version: 1.0
+
+! ----------------------------------------------------------
+! Ads (广告联盟)
+! ----------------------------------------------------------
+
+! Amazon Ads
+||amazon-adsystem.com^
+||aax.amazon-adsystem.com^
+||aan.amazon.com^
+
+! DoubleClick (Google)
+||ad.doubleclick.net^
+||pubads.g.doubleclick.net^
+||securepubads.g.doubleclick.net^
+
+! Media.net
+||media.net^
+||static.media.net^
+||contextual.media.net^
+
+! Google Ads
+||pagead2.googlesyndication.com^
+||adservice.google.com^
+||googleadservices.com^
+||tpc.googlesyndication.com^
+
+! Criteo
+||static.criteo.net^
+||bidder.criteo.com^
+
+! Taboola
+||taboola.com^
+||cdn.taboola.com^
+||trc.taboola.com^
+||images.taboola.com^
+||nr.taboola.com^
+||api.taboola.com^
+
+! Outbrain
+||outbrain.com^
+||log.outbrain.com^
+||widgets.outbrain.com^
+||odb.outbrain.com^
+
+! MGID
+||mgid.com^
+||cdn.mgid.com^
+||servicer.mgid.com^
+
+! Bing Ads (Microsoft)
+||bat.bing.com^
+||bingads.microsoft.com^
+||ads.microsoft.com^
+||adnxs.com^
+
+! Propeller Ads
+||propellerads.com^
+
+! AppLovin
+||applovin.com^
+||d.applovin.com^
+||rt.applovin.com^
+||ms.applovin.com^
+
+! Vungle / Liftoff
+||api.vungle.com^
+||vungle.com^
+||liftoff.io^
+
+! Xandr (Microsoft)
+||ib.adnxs.com^
+||secure.adnxs.com^
+||acdn.adnxs.com^
+||prebid.adnxs.com^
+
+! PubMatic
+||pubmatic.com^
+||ads.pubmatic.com^
+||image6.pubmatic.com^
+||hbopenbid.pubmatic.com^
+
+! OpenX
+||openx.net^
+||us-ads.openx.net^
+||rtb.openx.net^
+||u.openx.net^
+
+! Magnite (Rubicon / SpotX)
+||rubiconproject.com^
+||pixel.rubiconproject.com^
+||fastlane.rubiconproject.com^
+
+! Index Exchange (Casale Media)
+||indexexchange.com^
+||casalemedia.com^
+||as.casalemedia.com^
+||cdn.indexexchange.com^
+||htlb.casalemedia.com^
+
+! Yahoo / Oath
+||ads.yahoo.com^
+||gemini.yahoo.com^
+||adtech.yahooinc.com^
+
+! Unity Ads
+||auction.unityads.unity3d.com^
+||webview.unityads.unity3d.com^
+||config.unityads.unity3d.com^
+||adserver.unityads.unity3d.com^
+||unityads.unity3d.com^
+
+! Yandex
+||metrika.yandex.ru^
+||adfox.yandex.ru^
+||adfstat.yandex.ru^
+||appmetrica.yandex.ru^
+||extmaps-api.yandex.net^
+||offerwall.yandex.net^
+||mc.yandex.ru^
+
+! Mobile Ad Networks
+||live.chartboost.com^
+||init.supersonicads.com^
+||api.fyber.com^
+||inmobi.com^
+||ironSource.mobi^
+||is.com^
+||outcome-ssp.supersonicads.com^
+
+! YouTube Ads
+||s.youtube.com^
+||redirector.googlevideo.com^
+||youtubei.googleapis.com^
+
+! Ad Exchanges & SSPs
+||adsrvr.org^
+||smartyads.com^
+||ad.gt^
+||contextweb.com^
+||sharethrough.com^
+||eb2.3lift.com^
+||tlx.3lift.com^
+||apex.go.sonobi.com^
+||c.gumgum.com^
+||a.teads.tv^
+||cdn.teads.tv^
+||cdn.kargo.com^
+||sync.kargo.com^
+
+! AdRoll / NextRoll
+||d.adroll.com^
+||s.adroll.com^
+||adroll.com^
+
+! Pangle (ByteDance)
+||pangleglobal.com^
+
+! Ad Verification
+||doubleverify.com^
+||cdn.doubleverify.com^
+||pixel.adsafeprotected.com^
+||static.adsafeprotected.com^
+||fw.adsafeprotected.com^
+||insightexpressai.com^
+
+! ----------------------------------------------------------
+! Analytics (统计分析)
+! ----------------------------------------------------------
+
+! Google Analytics
+||analytics.google.com^
+||click.googleanalytics.com^
+||google-analytics.com^
+||ssl.google-analytics.com^
+||www.google-analytics.com^
+
+! Google Tag Manager
+||googletagmanager.com^
+||tagmanager.google.com^
+||www.googletagmanager.com^
+
+! Adobe Analytics (Omniture)
+||analytics.adobe.io^
+
+! Microsoft Clarity
+||clarity.ms^
+||c.clarity.ms^
+||s.clarity.ms^
+
+! Hotjar
+||static.hotjar.com^
+||script.hotjar.com^
+||vars.hotjar.com^
+||in.hotjar.com^
+
+! Heap Analytics
+||heapanalytics.com^
+||cdn.heapanalytics.com^
+
+! Mixpanel
+||api.mixpanel.com^
+||api-js.mixpanel.com^
+||decide.mixpanel.com^
+
+! Amplitude
+||api.amplitude.com^
+||api2.amplitude.com^
+
+! Segment
+||cdn.segment.com^
+||api.segment.io^
+
+! FullStory
+||rs.fullstory.com^
+
+! Quantcast
+||quantserve.com^
+||pixel.quantserve.com^
+||quantcast.com^
+
+! comScore / Scorecard
+||scorecardresearch.com^
+||sb.scorecardresearch.com^
+||b.scorecardresearch.com^
+
+! ----------------------------------------------------------
+! Tracking & Fingerprinting (追踪与指纹识别)
+! ----------------------------------------------------------
+
+! Browser Fingerprinting
+||fingerprintjs.com^
+||fpjs.io^
+||api.fpjs.io^
+
+! Behavioral Analytics
+||siftscience.com^
+||cdn.siftscience.com^
+||permutive.com^
+||cdn.permutive.com^
+
+! Identity Resolution
+||bluekai.com^
+||onetag-sys.com^
+||pippio.com^
+||id5-sync.com^
+||thetradedesk.com^
+||sync.mathtag.com^
+||pixel.mathtag.com^
+||crwdcntrl.net^
+||tapad.com^
+||prod.uidapi.com^
+
+! LiveRamp
+||idsync.rlcdn.com^
+||api.rlcdn.com^
+
+! Mobile Attribution
+||app.appsflyer.com^
+||appsflyer.com^
+||app.adjust.com^
+||adjust.com^
+||api2.branch.io^
+||bnc.lt^
+||kochava.com^
+||control.kochava.com^
+||singular.net^
+
+! CleverTap / Push
+||wzrkt.com^
+||clevertap-prod.com^
+
+! ----------------------------------------------------------
+! Cryptominers & Malware (挖矿与恶意软件)
+! ----------------------------------------------------------
+
+! Browser Cryptominers
+||coinimp.com^
+||www.coinimp.com^
+||webminepool.com^
+||minero.cc^
+||mineralt.io^
+||jsecoin.com^
+||crypto-loot.org^
+||monerominer.rocks^
+
+! Malvertising / Popups
+||popads.net^
+||popcash.net^
+||propellerclick.com^
+||onclickads.net^
+||popmyads.com^
+||clickadu.com^
+||trafficjunky.net^
+||exoclick.com^
+||juicyads.com^
+
+! Malicious Scripts
+||2giga.link^
+||greatis.com^
+||statdynamic.com^
+
+! ----------------------------------------------------------
+! Social Trackers (社交追踪)
+! ----------------------------------------------------------
+
+! Facebook / Meta
+||pixel.facebook.com^
+||an.facebook.com^
+||connect.facebook.net^
+||graph.facebook.com^
+||tr.facebook.com^
+
+! Instagram
+||graph.instagram.com^
+||i.instagram.com^
+
+! Snapchat
+||sc-static.net^
+||tr.snapchat.com^
+||ads.snapchat.com^
+||sc-analytics.appspot.com^
+
+! LinkedIn
+||ads.linkedin.com^
+||analytics.pointdrive.linkedin.com^
+||snap.licdn.com^
+||px.ads.linkedin.com^
+
+! X (Twitter)
+||static.ads-twitter.com^
+||ads-api.twitter.com^
+||ads-api.x.com^
+||analytics.twitter.com^
+||ads.x.com^
+
+! Reddit
+||events.reddit.com^
+||events.redditmedia.com^
+||d.reddit.com^
+
+! TikTok
+||ads-api.tiktok.com^
+||analytics.tiktok.com^
+||ads-sg.tiktok.com^
+||analytics-sg.tiktok.com^
+||business-api.tiktok.com^
+||ads.tiktok.com^
+||log.byteoversea.com^
+||mon.byteoversea.com^
+
+! Pinterest
+||ct.pinterest.com^
+||log.pinterest.com^
+||trk.pinterest.com^
+
+! Quora
+||pixel.quora.com^
+
+! Tumblr
+||px.srvcs.tumblr.com^
+
+! VK (VKontakte)
+||ads.vk.com^
+
+! Mail.ru
+||ad.mail.ru^
+||top-fwz1.mail.ru^
+
+! ----------------------------------------------------------
+! OEM Vendors (设备厂商追踪)
+! ----------------------------------------------------------
+
+! Apple
+||iadsdk.apple.com^
+||metrics.icloud.com^
+||api-adservices.apple.com^
+||books-analytics-events.apple.com^
+||weather-analytics-events.apple.com^
+||notes-analytics-events.apple.com^
+||metrics.mzstatic.com^
+||xp.apple.com^
+
+! Realme
+||iot-eu-logser.realme.com^
+||iot-logser.realme.com^
+||bdapi-ads.realmemobile.com^
+||bdapi-in-ads.realmemobile.com^
+
+! Oppo
+||adsfs.oppomobile.com^
+||adx.ads.oppomobile.com^
+||ck.ads.oppomobile.com^
+||data.ads.oppomobile.com^
+
+! OnePlus
+||click.oneplus.cn^
+||open.oneplus.net^
+
+! Huawei
+||metrics.data.hicloud.com^
+||metrics2.data.hicloud.com^
+||grs.hicloud.com^
+||logservice.hicloud.com^
+||logservice1.hicloud.com^
+||logbak.hicloud.com^
+||ads.huawei.com^
+
+! Xiaomi
+||api.ad.xiaomi.com^
+||data.mistat.xiaomi.com^
+||data.mistat.india.xiaomi.com^
+||data.mistat.rus.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+||sdkconfig.ad.intl.xiaomi.com^
+||tracking.rus.miui.com^
+||tracking.miui.com^
+
+! Samsung
+||samsungads.com^
+||smetrics.samsung.com^
+||nmetrics.samsung.com^
+||samsung-com.112.2o7.net^
+||analytics-api.samsunghealthcn.com^
+||config.samsungads.com^
+
+! Vivo
+||adlog.vivo.com^
+||ads-api.vivo.com^
+
+! Lenovo
+||a.lenovo.com^
+
+! LG
+||us.info.lgsmartad.com^
+||us.ibs.lgappstv.com^
+||ad.lgappstv.com^
+||info.lgsmartad.com^
+||ngfts.lge.com^
+||yumenetworks.com^
+||smartclip.net^
+||smartclip.com^
+
+! Microsoft (Surface / Windows)
+||settings-win.data.microsoft.com^
+||vortex.data.microsoft.com^
+||vortex-win.data.microsoft.com^
+||watson.telemetry.microsoft.com^
+||telemetry.microsoft.com^
+
+! FireTV (Amazon)
+||device-metrics-us.amazon.com^
+||device-metrics-us-2.amazon.com^
+||mads-eu.amazon.com^
+
+! Smart TV (Roku, Vizio)
+||logs.roku.com^
+||ads.roku.com^
+||ads.vizio.com^
+||tvinteractive.tv^
+||tvpixel.com^
+
+! Google (Pixel / Android)
+||app-measurement.com^
+||firebase-settings.crashlytics.com^
+||pagead.l.doubleclick.net^
+
+! ----------------------------------------------------------
+! Consent Management (Cookie 弹窗管理)
+! ----------------------------------------------------------
+
+! Consent Management Platforms
+||cdn.cookielaw.org^
+||geolocation.onetrust.com^
+||consent.cookiebot.com^
+||consentcdn.cookiebot.com^
+||cookiebot.com^
+||consent.trustarc.com^
+||sdk.privacy-center.org^
+||cdn.privacy-mgmt.com^
+||app.usercentrics.eu^
+
+! ----------------------------------------------------------
+! Affiliate Networks (联盟营销)
+! ----------------------------------------------------------
+
+! Commission Junction (CJ)
+||www.anrdoezrs.net^
+||www.dpbolvw.net^
+||www.tkqlhce.com^
+
+! ShareASale
+||shareasale.com^
+||shareasale-analytics.com^
+
+! Rakuten Advertising
+||click.linksynergy.com^
+||ad.linksynergy.com^
+||track.linksynergy.com^
+
+! Impact
+||impact.com^
+||d.impactradius-event.com^
+||api.impact.com^
+
+! Awin
+||www.awin1.com^
+||zenaps.com^
+
+! PartnerStack
+||partnerstack.com^
+||api.partnerstack.com^
+
+! Refersion
+||refersion.com^
+||api.refersion.com^
+
+! Skimlinks
+||s.skimresources.com^
+||t.skimresources.com^
+||go.skimresources.com^
+||redirector.skimresources.com^
+
+! Viglink / Sovrn
+||redirect.viglink.com^
+||cdn.viglink.com^
+||api.viglink.com^
+
+! Amazon Associates
+||ir-na.amazon-adsystem.com^
+||rcm-na.amazon-adsystem.com^
+||ws-na.amazon-adsystem.com^
+
+! ----------------------------------------------------------
+! A/B Testing & Others (AB测试与其他)
+! ----------------------------------------------------------
+
+! A/B Testing Platforms
+||cdn.optimizely.com^
+||logx.optimizely.com^
+||api.optimizely.com^
+||cdn.dynamicyield.com^
+
+! Email Marketing
+||list-manage.com^
+||track.hubspot.com^
+||munchkin.marketo.net^
+||trackcmp.net^
+
+! Live Chat Trackers
+||widget.intercom.io^
+||js.driftt.com^
+
+! ----------------------------------------------------------
+! Video Ads (视频广告)
+! ----------------------------------------------------------
+
+! VAST / VPAID
+||imasdk.googleapis.com^
+||dai.google.com^
+
+! JW Player Ads
+||g.jwpsrv.com^
+||ssl.p.jwpcdn.com^
+
+! FreeWheel (Comcast)
+||mssl.fwmrm.net^
+
+! Connatix
+||cd.connatix.com^
+||capi.connatix.com^
+||vid.connatix.com^
+
+! Brightcove
+||metrics.brightcove.com^
+
+! Innovid
+||s.innovid.com^
+
+! Video Ad Servers
+||tremorhub.com^
+||ads.tremorhub.com^
